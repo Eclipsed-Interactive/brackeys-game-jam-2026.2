@@ -1,13 +1,4 @@
 {
-    "SmoothCameraMover": [
-        {
-            "owner": 7638342,
-            "id": 3943044159,
-            "IsReplicated": false,
-            "SmoothSpeed": "mpmZPw==",
-            "SmoothDistance": "mpmZPw=="
-        }
-    ],
     "PlayerMovement": [
         {
             "owner": 15386791,
@@ -16,6 +7,15 @@
             "MaxMovespeed": "AADIQw==",
             "Acceleration": "AAAAAA==",
             "JumpForce": "AAAAQA=="
+        }
+    ],
+    "SmoothCameraMover": [
+        {
+            "owner": 7638342,
+            "id": 3943044159,
+            "IsReplicated": false,
+            "SmoothSpeed": "AAAgQQ==",
+            "SmoothDistance": "uB4FPg=="
         }
     ],
     "SpriteRenderer2D": [
@@ -82,30 +82,39 @@
     ],
     "BoxCollider2D": [
         {
-            "owner": 15386791,
-            "id": 3990032972,
-            "IsReplicated": false,
-            "myLayer": "",
-            "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
-        },
-        {
             "owner": 5885770,
             "id": 437593301,
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
             "HalfExtents": "AAAAPwAAAD8="
+        },
+        {
+            "owner": 15386791,
+            "id": 3990032972,
+            "IsReplicated": false,
+            "myLayer": "",
+            "ColliderPivot": "AAAAAAAAAAA=",
+            "HalfExtents": "AAAAPwAAAD8="
+        }
+    ],
+    "SquishAnimator": [
+        {
+            "owner": 15386791,
+            "id": 3260257992,
+            "IsReplicated": false,
+            "SquishTime": "AACgQA==",
+            "SquishAmount": "AACAPw=="
         }
     ],
     "GameObjects": [
         {
-            "id": 7638342,
-            "name": "Camera"
-        },
-        {
             "id": 15386791,
             "name": "Player"
+        },
+        {
+            "id": 7638342,
+            "name": "Camera"
         },
         {
             "id": 5885770,
