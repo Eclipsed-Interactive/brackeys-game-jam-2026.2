@@ -1,18 +1,39 @@
 {
+    "PlayerMovement": [
+        {
+            "owner": 15386791,
+            "id": 2977347983,
+            "IsReplicated": false,
+            "MaxMovespeed": "AADIQw==",
+            "Acceleration": "AAAAAA==",
+            "JumpForce": "AAAAQA=="
+        }
+    ],
+    "SmoothCameraMover": [
+        {
+            "owner": 7638342,
+            "id": 3943044159,
+            "IsReplicated": false,
+            "SmoothSpeed": "AABAQA==",
+            "SmoothDistance": "AADAPw=="
+        }
+    ],
     "SpriteRenderer2D": [
         {
             "owner": 15386791,
             "id": 1859756946,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
-            "material": "304024b18cd756152dee092f1a43738d"
+            "material": "304024b18cd756152dee092f1a43738d",
+            "Albedo": "kJNMPzZgJD42YCQ+AACAPw=="
         },
         {
-            "owner": 1346092,
-            "id": 2744634008,
+            "owner": 5885770,
+            "id": 673767279,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
-            "material": "304024b18cd756152dee092f1a43738d"
+            "material": "304024b18cd756152dee092f1a43738d",
+            "Albedo": "AACAPwAAgD8AAIA/AACAPw=="
         }
     ],
     "Transform2D": [
@@ -22,24 +43,72 @@
             "IsReplicated": false,
             "position": "AAAAAAAAAAA=",
             "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
+            "scale": "AAAgQQAAkEE="
         },
         {
-            "owner": 1346092,
-            "id": 1662699813,
+            "owner": 7638342,
+            "id": 3864407197,
             "IsReplicated": false,
-            "position": "qnWoPwCi3z0=",
+            "position": "AAAAAAAAAAA=",
             "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
+            "scale": "AACAPwAAgD8="
+        },
+        {
+            "owner": 5885770,
+            "id": 1884836108,
+            "IsReplicated": false,
+            "position": "IikdPJhXmb4=",
+            "rotation": "AAAAAA==",
+            "scale": "Zia+QwAAEEE="
+        }
+    ],
+    "RigidBody2D": [
+        {
+            "owner": 15386791,
+            "id": 2367530925,
+            "IsReplicated": false,
+            "LockRotation": "AA==",
+            "LockXPos": "AA==",
+            "LockYPos": "AA=="
+        }
+    ],
+    "Camera": [
+        {
+            "owner": 7638342,
+            "id": 2960082157,
+            "IsReplicated": false,
+            "CameraZoom": "AACAPw=="
+        }
+    ],
+    "BoxCollider2D": [
+        {
+            "owner": 15386791,
+            "id": 3990032972,
+            "IsReplicated": false,
+            "myLayer": "",
+            "ColliderPivot": "AAAAAAAAAAA=",
+            "HalfExtents": "AAAAPwAAAD8="
+        },
+        {
+            "owner": 5885770,
+            "id": 437593301,
+            "IsReplicated": false,
+            "myLayer": "",
+            "ColliderPivot": "AAAAAAAAAAA=",
+            "HalfExtents": "AAAAPwAAAD8="
         }
     ],
     "GameObjects": [
         {
             "id": 15386791,
-            "name": "New Sprite"
+            "name": "Player"
         },
         {
-            "id": 1346092,
+            "id": 7638342,
+            "name": "Camera"
+        },
+        {
+            "id": 5885770,
             "name": "New Sprite"
         }
     ]
