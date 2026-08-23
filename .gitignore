@@ -1,0 +1,15 @@
+/[Ll]ibrary/*
+
+[Tt]emp/*
+Project/[Ee]ditor/*
+!Project/[Ee]ditor/Layouts/
+Project/[Ee]ditor/Layouts/CurrentLayout.edlayout
+Project/[Ll]ocal/
+
+Project/Settings/editor
+
+/.vs
+Project/Settings/editor
+
+/[Bb]in/
+/Build
