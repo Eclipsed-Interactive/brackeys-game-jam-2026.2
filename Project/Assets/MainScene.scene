@@ -1,4 +1,13 @@
 {
+    "SmoothCameraMover": [
+        {
+            "owner": 7638342,
+            "id": 3943044159,
+            "IsReplicated": false,
+            "SmoothSpeed": "zcyMPw==",
+            "SmoothDistance": "MzOzPw=="
+        }
+    ],
     "PlayerMovement": [
         {
             "owner": 15386791,
@@ -7,15 +16,6 @@
             "MaxMovespeed": "AADIQw==",
             "Acceleration": "AAAAAA==",
             "JumpForce": "AAAAQA=="
-        }
-    ],
-    "SmoothCameraMover": [
-        {
-            "owner": 7638342,
-            "id": 3943044159,
-            "IsReplicated": false,
-            "SmoothSpeed": "AABAQA==",
-            "SmoothDistance": "AADAPw=="
         }
     ],
     "SpriteRenderer2D": [
@@ -100,12 +100,12 @@
     ],
     "GameObjects": [
         {
-            "id": 15386791,
-            "name": "Player"
-        },
-        {
             "id": 7638342,
             "name": "Camera"
+        },
+        {
+            "id": 15386791,
+            "name": "Player"
         },
         {
             "id": 5885770,
