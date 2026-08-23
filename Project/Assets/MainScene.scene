@@ -1,0 +1,27 @@
+{
+    "SpriteRenderer2D": [
+        {
+            "owner": 15386791,
+            "id": 1859756946,
+            "IsReplicated": false,
+            "ZIndex": "AAAAAA==",
+            "material": "304024b18cd756152dee092f1a43738d"
+        }
+    ],
+    "Transform2D": [
+        {
+            "owner": 15386791,
+            "id": 2359800891,
+            "IsReplicated": false,
+            "position": "AAAAAAAAAAA=",
+            "rotation": "AAAAAA==",
+            "scale": "AACgQQAAoEE="
+        }
+    ],
+    "GameObjects": [
+        {
+            "id": 15386791,
+            "name": "New Sprite"
+        }
+    ]
+}
