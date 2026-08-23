@@ -6,6 +6,13 @@
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
             "material": "304024b18cd756152dee092f1a43738d"
+        },
+        {
+            "owner": 1346092,
+            "id": 2744634008,
+            "IsReplicated": false,
+            "ZIndex": "AAAAAA==",
+            "material": "304024b18cd756152dee092f1a43738d"
         }
     ],
     "Transform2D": [
@@ -16,11 +23,23 @@
             "position": "AAAAAAAAAAA=",
             "rotation": "AAAAAA==",
             "scale": "AACgQQAAoEE="
+        },
+        {
+            "owner": 1346092,
+            "id": 1662699813,
+            "IsReplicated": false,
+            "position": "qnWoPwCi3z0=",
+            "rotation": "AAAAAA==",
+            "scale": "AACgQQAAoEE="
         }
     ],
     "GameObjects": [
         {
             "id": 15386791,
+            "name": "New Sprite"
+        },
+        {
+            "id": 1346092,
             "name": "New Sprite"
         }
     ]
