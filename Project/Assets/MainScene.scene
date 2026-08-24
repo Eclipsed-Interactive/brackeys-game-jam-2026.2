@@ -20,19 +20,11 @@
     ],
     "SpriteRenderer2D": [
         {
-            "owner": 5885770,
-            "id": 4195739014,
+            "owner": 10455115,
+            "id": 3753327636,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "AACAPwAAgD8AAIA/AAAAAA=="
-        },
-        {
-            "owner": 5614702,
-            "id": 3190742337,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
+            "sprite": "07fabc3616e3969770d39781c666c389",
             "material": "304024b18cd756152dee092f1a43738d",
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
         },
@@ -45,6 +37,14 @@
             "Albedo": "GUAmPqjnYT42kJM+AACAPw=="
         },
         {
+            "owner": 14195375,
+            "id": 175479938,
+            "IsReplicated": false,
+            "ZIndex": "zcyUwQ==",
+            "material": "304024b18cd756152dee092f1a43738d",
+            "Albedo": "AACAPwAAgD8AAIA/AACAPw=="
+        },
+        {
             "owner": 14900773,
             "id": 2212384016,
             "IsReplicated": false,
@@ -53,22 +53,22 @@
             "Albedo": "SMBEPkjARD5IwEQ+AACAPw=="
         },
         {
-            "owner": 12924820,
-            "id": 3745885984,
+            "owner": 4013483,
+            "id": 2227589077,
             "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
+            "ZIndex": "mpkZvw==",
             "sprite": "beae8d0881a37e5c6e2214be8caaf907",
             "material": "304024b18cd756152dee092f1a43738d",
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
         },
         {
-            "owner": 6242090,
-            "id": 1449807543,
+            "owner": 13704469,
+            "id": 3587220537,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
             "sprite": "beae8d0881a37e5c6e2214be8caaf907",
             "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
+            "Albedo": "h4aGPuHg4D6rqio/AACAPw=="
         },
         {
             "owner": 9601743,
@@ -80,6 +80,15 @@
             "Albedo": "h4aGPuHg4D6rqio/AACAPw=="
         },
         {
+            "owner": 6441861,
+            "id": 799009003,
+            "IsReplicated": false,
+            "ZIndex": "AAAAAA==",
+            "sprite": "4796afb25f941b9397a8b6e171b59b60",
+            "material": "304024b18cd756152dee092f1a43738d",
+            "Albedo": "/nCGPtsc4T4QCis/AACAPw=="
+        },
+        {
             "owner": 8019196,
             "id": 7521342,
             "IsReplicated": false,
@@ -87,15 +96,6 @@
             "sprite": "64bdfdfb7e7b87452ddd9297390049b1",
             "material": "304024b18cd756152dee092f1a43738d",
             "Albedo": "rpTfPgQgyT4EIMk+AACAPw=="
-        },
-        {
-            "owner": 3037348,
-            "id": 818819212,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
         },
         {
             "owner": 11462072,
@@ -107,11 +107,11 @@
             "Albedo": "h4aGPuHg4D6rqio/AACAPw=="
         },
         {
-            "owner": 2090356,
-            "id": 4138450238,
+            "owner": 421322,
+            "id": 3744324962,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
-            "sprite": "0fb17fda3c416eed2bdcd50df1fe5d42",
+            "sprite": "07fabc3616e3969770d39781c666c389",
             "material": "304024b18cd756152dee092f1a43738d",
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
         },
@@ -125,29 +125,20 @@
             "Albedo": "h4aGPuHg4D6rqio/AACAPw=="
         },
         {
-            "owner": 15598367,
-            "id": 3714446762,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 15950564,
-            "id": 3162967824,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
             "owner": 12213073,
             "id": 47733860,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
             "sprite": "0fb17fda3c416eed2bdcd50df1fe5d42",
+            "material": "304024b18cd756152dee092f1a43738d",
+            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
+        },
+        {
+            "owner": 12288402,
+            "id": 3792171755,
+            "IsReplicated": false,
+            "ZIndex": "zczMPg==",
+            "sprite": "07fabc3616e3969770d39781c666c389",
             "material": "304024b18cd756152dee092f1a43738d",
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
         },
@@ -166,15 +157,6 @@
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
             "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 9562250,
-            "id": 2159149005,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
             "material": "304024b18cd756152dee092f1a43738d",
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
         },
@@ -206,14 +188,6 @@
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
         },
         {
-            "owner": 15386791,
-            "id": 1859756946,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "zcxMP6WkJD6lpCQ+/v19Pw=="
-        },
-        {
             "owner": 4165633,
             "id": 984943453,
             "IsReplicated": false,
@@ -223,98 +197,8 @@
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
         },
         {
-            "owner": 1381065,
-            "id": 3476969552,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 11270209,
-            "id": 691790241,
-            "IsReplicated": false,
-            "ZIndex": "MzM7QQ==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 9251534,
-            "id": 1141582515,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 12405700,
-            "id": 2066771182,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 9492384,
-            "id": 3428757582,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 1886613,
-            "id": 3813823595,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 16700328,
-            "id": 3551966515,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 4013483,
-            "id": 2227589077,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 13704469,
-            "id": 3587220537,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "h4aGPuHg4D6rqio/AACAPw=="
-        },
-        {
-            "owner": 11305210,
-            "id": 98632567,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 8511830,
-            "id": 1137009059,
+            "owner": 8965825,
+            "id": 1009182910,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
             "sprite": "beae8d0881a37e5c6e2214be8caaf907",
@@ -325,61 +209,7 @@
             "owner": 8726969,
             "id": 3779376914,
             "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 7784187,
-            "id": 1735021355,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "beae8d0881a37e5c6e2214be8caaf907",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 6412644,
-            "id": 999639980,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "5aa58e7d3d204f52ee0e93a5ffa10860",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 6441861,
-            "id": 799009003,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "4796afb25f941b9397a8b6e171b59b60",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPtsc4T4QCis/AACAPw=="
-        },
-        {
-            "owner": 421322,
-            "id": 3744324962,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 10455115,
-            "id": 3753327636,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
-        },
-        {
-            "owner": 3982145,
-            "id": 1543149014,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
+            "ZIndex": "MzMzPw==",
             "sprite": "07fabc3616e3969770d39781c666c389",
             "material": "304024b18cd756152dee092f1a43738d",
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
@@ -394,19 +224,18 @@
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
         },
         {
-            "owner": 1753246,
-            "id": 3660010664,
+            "owner": 15386791,
+            "id": 1859756946,
             "IsReplicated": false,
-            "ZIndex": "mplJQQ==",
-            "sprite": "07fabc3616e3969770d39781c666c389",
+            "ZIndex": "mpl5QA==",
             "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
+            "Albedo": "zcxMP6WkJD6lpCQ+/v19Pw=="
         },
         {
-            "owner": 10386104,
-            "id": 2341839680,
+            "owner": 16704675,
+            "id": 2980972910,
             "IsReplicated": false,
-            "ZIndex": "MzNbQQ==",
+            "ZIndex": "mpl5QA==",
             "sprite": "07fabc3616e3969770d39781c666c389",
             "material": "304024b18cd756152dee092f1a43738d",
             "Albedo": "/nCGPlHUnz4QCis/AACAPw=="
@@ -430,234 +259,26 @@
             "scale": "AACgQQAAoEE="
         },
         {
-            "owner": 5614702,
-            "id": 3716122688,
-            "IsReplicated": false,
-            "position": "MzOzvwAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
             "owner": 15386791,
             "id": 2359800891,
             "IsReplicated": false,
-            "position": "mpkZv5qZGT8=",
+            "position": "Zw/zvsJdGD8=",
             "rotation": "AAAAAA==",
             "scale": "AAAgQQAAkEE="
         },
         {
-            "owner": 7638342,
-            "id": 3864407197,
+            "owner": 2026083,
+            "id": 51119587,
             "IsReplicated": false,
-            "position": "AAAAAAAAAAA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACAPwAAgD8="
-        },
-        {
-            "owner": 5885770,
-            "id": 1884836108,
-            "IsReplicated": false,
-            "position": "mpkZv65HYT0=",
-            "rotation": "AAAAAA==",
-            "scale": "zUyVQwAAEEE="
-        },
-        {
-            "owner": 4310020,
-            "id": 2693513854,
-            "IsReplicated": false,
-            "position": "AAAAAIGVwz4=",
-            "rotation": "AAAAAA==",
-            "scale": "AECcRQBAnEU="
-        },
-        {
-            "owner": 9251534,
-            "id": 4019837513,
-            "IsReplicated": false,
-            "position": "uRsZP87MzD8=",
+            "position": "fgQAwJqZmb8=",
             "rotation": "AAAAAA==",
             "scale": "AACgQQAAoEE="
         },
         {
-            "owner": 9492384,
-            "id": 1212596578,
+            "owner": 6441861,
+            "id": 3301157735,
             "IsReplicated": false,
-            "position": "ZmbmvwAAAAA=",
-            "rotation": "AAAAAA==",
-            "scale": "ZmagQQAAoEE="
-        },
-        {
-            "owner": 1241264,
-            "id": 1922435769,
-            "IsReplicated": false,
-            "position": "fgQAwAAAAAA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 16700328,
-            "id": 2771370116,
-            "IsReplicated": false,
-            "position": "0MPMvwAAAAA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 9562250,
-            "id": 3133223896,
-            "IsReplicated": false,
-            "position": "itiZvwAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 10455115,
-            "id": 2158385196,
-            "IsReplicated": false,
-            "position": "AAAAwM3MzL4=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 6242090,
-            "id": 3437969332,
-            "IsReplicated": false,
-            "position": "8D6AvwAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 11270209,
-            "id": 3344619488,
-            "IsReplicated": false,
-            "position": "uRsZP5qZGT8=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 12405700,
-            "id": 1060136189,
-            "IsReplicated": false,
-            "position": "rUpNvwAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 4013483,
-            "id": 2778719248,
-            "IsReplicated": false,
-            "position": "ehcavwAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 1381065,
-            "id": 551898327,
-            "IsReplicated": false,
-            "position": "jsjNvgAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 11305210,
-            "id": 4054534906,
-            "IsReplicated": false,
-            "position": "T8ROvgAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 8511830,
-            "id": 3345185362,
-            "IsReplicated": false,
-            "position": "AMH7ugAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 12924820,
-            "id": 2739915201,
-            "IsReplicated": false,
-            "position": "S9VKPgAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 7784187,
-            "id": 1332593064,
-            "IsReplicated": false,
-            "position": "DNHLPgAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 1753246,
-            "id": 819619604,
-            "IsReplicated": false,
-            "position": "uRsZP83MTD8=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 6412644,
-            "id": 1296601923,
-            "IsReplicated": false,
-            "position": "uRsZPwAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 4165633,
-            "id": 725836317,
-            "IsReplicated": false,
-            "position": "Zmbmv5qZGb8=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 10386104,
-            "id": 2796130832,
-            "IsReplicated": false,
-            "position": "uRsZP83MzD4=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 15952441,
-            "id": 3687597762,
-            "IsReplicated": false,
-            "position": "AAAAAAAAAAA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACAPwAAgD8="
-        },
-        {
-            "owner": 421322,
-            "id": 1666290078,
-            "IsReplicated": false,
-            "position": "fgQAwM3MTL4=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 13704469,
-            "id": 3770477311,
-            "IsReplicated": false,
-            "position": "fJr2P83MzL4=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 16488424,
-            "id": 4240078407,
-            "IsReplicated": false,
-            "position": "fgQAwJqZGb8=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 6548879,
-            "id": 3175496587,
-            "IsReplicated": false,
-            "position": "7r8TQM3MzL4=",
+            "position": "zCfeP83MzL4=",
             "rotation": "AAAAAA==",
             "scale": "AACgQQAAoEE="
         },
@@ -683,85 +304,53 @@
             "IsReplicated": false,
             "position": "uRsZPzQzsz8=",
             "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
+            "scale": "AACgQZpZgkM="
         },
         {
-            "owner": 2026083,
-            "id": 51119587,
+            "owner": 7638342,
+            "id": 3864407197,
             "IsReplicated": false,
-            "position": "fgQAwJqZmb8=",
+            "position": "H4XrvwAAAAA=",
+            "rotation": "AAAAAA==",
+            "scale": "AACAPwAAgD8="
+        },
+        {
+            "owner": 4310020,
+            "id": 2693513854,
+            "IsReplicated": false,
+            "position": "AAAAAIGVwz4=",
+            "rotation": "AAAAAA==",
+            "scale": "AECcRQBAnEU="
+        },
+        {
+            "owner": 1241264,
+            "id": 1922435769,
+            "IsReplicated": false,
+            "position": "fgQAwAAAAAA=",
             "rotation": "AAAAAA==",
             "scale": "AACgQQAAoEE="
         },
         {
-            "owner": 3160916,
-            "id": 896677755,
+            "owner": 10455115,
+            "id": 2158385196,
             "IsReplicated": false,
-            "position": "zMzMv5qZGb8=",
+            "position": "AAAAwM3MzL4=",
             "rotation": "AAAAAA==",
             "scale": "AACgQQAAoEE="
         },
         {
-            "owner": 12213073,
-            "id": 981002309,
+            "owner": 16488424,
+            "id": 4240078407,
             "IsReplicated": false,
-            "position": "MjOzv5qZGb8=",
+            "position": "fgQAwJqZGb8=",
             "rotation": "AAAAAA==",
             "scale": "AACgQQAAoEE="
         },
         {
-            "owner": 15950564,
-            "id": 3746956665,
+            "owner": 6548879,
+            "id": 3175496587,
             "IsReplicated": false,
-            "position": "uRsZP2hm5j8=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 3037348,
-            "id": 1076597474,
-            "IsReplicated": false,
-            "position": "uRsZPwEAAEA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 15598367,
-            "id": 3657701191,
-            "IsReplicated": false,
-            "position": "uRsZP83MTD4=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 2090356,
-            "id": 2234237065,
-            "IsReplicated": false,
-            "position": "7E5MPwAAADA=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 3982145,
-            "id": 2686933367,
-            "IsReplicated": false,
-            "position": "uRsZPwAAgD8=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 1886613,
-            "id": 2702855121,
-            "IsReplicated": false,
-            "position": "uRsZP5qZmT8=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
-            "owner": 9601743,
-            "id": 2691414149,
-            "IsReplicated": false,
-            "position": "AAAgQM3MzL4=",
+            "position": "7r8TQM3MzL4=",
             "rotation": "AAAAAA==",
             "scale": "AACgQQAAoEE="
         },
@@ -774,6 +363,62 @@
             "scale": "AACgQQAAoEE="
         },
         {
+            "owner": 13704469,
+            "id": 3770477311,
+            "IsReplicated": false,
+            "position": "fJr2P83MzL4=",
+            "rotation": "AAAAAA==",
+            "scale": "AACgQQAAoEE="
+        },
+        {
+            "owner": 421322,
+            "id": 1666290078,
+            "IsReplicated": false,
+            "position": "fgQAwM3MTL4=",
+            "rotation": "AAAAAA==",
+            "scale": "AACgQQAAoEE="
+        },
+        {
+            "owner": 4013483,
+            "id": 2778719248,
+            "IsReplicated": false,
+            "position": "ehcavwAAADA=",
+            "rotation": "AAAAAA==",
+            "scale": "MzPKQwAAoEE="
+        },
+        {
+            "owner": 3160916,
+            "id": 896677755,
+            "IsReplicated": false,
+            "position": "zMzMv5qZGb8=",
+            "rotation": "AAAAAA==",
+            "scale": "AACgQQAAoEE="
+        },
+        {
+            "owner": 8965825,
+            "id": 285111911,
+            "IsReplicated": false,
+            "position": "zAoMv0eL6T0=",
+            "rotation": "AAAAAA==",
+            "scale": "MzPKQzMzw0A="
+        },
+        {
+            "owner": 12213073,
+            "id": 981002309,
+            "IsReplicated": false,
+            "position": "MjOzv5qZGb8=",
+            "rotation": "AAAAAA==",
+            "scale": "AACgQQAAoEE="
+        },
+        {
+            "owner": 16704675,
+            "id": 3848482614,
+            "IsReplicated": false,
+            "position": "2004Pw/tsz8=",
+            "rotation": "AAAAAA==",
+            "scale": "MzPjQM3Me0M="
+        },
+        {
             "owner": 4391680,
             "id": 3861936157,
             "IsReplicated": false,
@@ -782,20 +427,52 @@
             "scale": "AACAPwAAgD8="
         },
         {
-            "owner": 6441861,
-            "id": 3301157735,
-            "IsReplicated": false,
-            "position": "zCfeP83MzL4=",
-            "rotation": "AAAAAA==",
-            "scale": "AACgQQAAoEE="
-        },
-        {
             "owner": 6872291,
             "id": 2175602963,
             "IsReplicated": false,
             "position": "AAAAAIGVw74=",
             "rotation": "AAAAAA==",
             "scale": "bxKDO28Sgzs="
+        },
+        {
+            "owner": 12288402,
+            "id": 1900886732,
+            "IsReplicated": false,
+            "position": "/OosPz71KD4=",
+            "rotation": "AABcwg==",
+            "scale": "ZmZGQZqZKUE="
+        },
+        {
+            "owner": 9601743,
+            "id": 2691414149,
+            "IsReplicated": false,
+            "position": "AAAgQM3MzL4=",
+            "rotation": "AAAAAA==",
+            "scale": "AACgQQAAoEE="
+        },
+        {
+            "owner": 4165633,
+            "id": 725836317,
+            "IsReplicated": false,
+            "position": "Zmbmv5qZGb8=",
+            "rotation": "AAAAAA==",
+            "scale": "AACgQQAAoEE="
+        },
+        {
+            "owner": 15952441,
+            "id": 3687597762,
+            "IsReplicated": false,
+            "position": "AAAAAAAAAAA=",
+            "rotation": "AAAAAA==",
+            "scale": "AACAPwAAgD8="
+        },
+        {
+            "owner": 14195375,
+            "id": 216816138,
+            "IsReplicated": false,
+            "position": "AAAAAAAAAAA=",
+            "rotation": "AAAAAA==",
+            "scale": "ZualQ5qZsUE="
         }
     ],
     "RigidBody2D": [
@@ -818,16 +495,16 @@
     ],
     "BoxCollider2D": [
         {
-            "owner": 5885770,
-            "id": 437593301,
+            "owner": 6441861,
+            "id": 3117936945,
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
             "HalfExtents": "AAAAPwAAAD8="
         },
         {
-            "owner": 6441861,
-            "id": 3117936945,
+            "owner": 11462072,
+            "id": 2925135013,
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
@@ -866,27 +543,27 @@
             "HalfExtents": "AAAAPwAAAD8="
         },
         {
-            "owner": 11462072,
-            "id": 2925135013,
+            "owner": 14195375,
+            "id": 3379460794,
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
             "HalfExtents": "AAAAPwAAAD8="
         }
     ],
-    "ParallaxBackground": [
+    "SquishAnimator": [
         {
             "owner": 15386791,
-            "id": 366556325,
+            "id": 1201816177,
             "IsReplicated": false,
-            "testSpawn": "7cd9e47711b538c97c981ac823970cde"
+            "SquishTime": "AAAwQQ==",
+            "SquishAmount": "AACAPw=="
         }
     ],
     "GameObjects": [
         {
-            "owner": 15952441,
-            "id": 9492384,
-            "name": "New Sprite"
+            "id": 15386791,
+            "name": "Player"
         },
         {
             "id": 7638342,
@@ -898,17 +575,8 @@
             "name": "New Sprite"
         },
         {
-            "id": 15386791,
-            "name": "Player"
-        },
-        {
             "owner": 15952441,
-            "id": 6412644,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 3037348,
+            "id": 4013483,
             "name": "New Sprite"
         },
         {
@@ -922,58 +590,7 @@
             "name": "New Sprite"
         },
         {
-            "owner": 15952441,
-            "id": 5885770,
-            "name": "Collider"
-        },
-        {
-            "owner": 15952441,
-            "id": 5614702,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 16700328,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 9562250,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 10386104,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 6242090,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 15598367,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 12405700,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 4013483,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 1381065,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 11305210,
+            "id": 14900773,
             "name": "New Sprite"
         },
         {
@@ -982,33 +599,9 @@
             "name": "New Sprite"
         },
         {
-            "owner": 15952441,
-            "id": 8511830,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 12924820,
-            "name": "New Sprite"
-        },
-        {
-            "id": 14900773,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 7784187,
-            "name": "New Sprite"
-        },
-        {
             "owner": 4310020,
             "id": 6872291,
             "name": "New GameObject"
-        },
-        {
-            "owner": 15952441,
-            "id": 1753246,
-            "name": "New Sprite"
         },
         {
             "id": 15952441,
@@ -1016,12 +609,12 @@
         },
         {
             "owner": 15952441,
-            "id": 2026083,
+            "id": 421322,
             "name": "New Sprite"
         },
         {
             "owner": 15952441,
-            "id": 421322,
+            "id": 2026083,
             "name": "New Sprite"
         },
         {
@@ -1032,6 +625,10 @@
         {
             "owner": 15952441,
             "id": 13844012,
+            "name": "New Sprite"
+        },
+        {
+            "id": 16704675,
             "name": "New Sprite"
         },
         {
@@ -1055,42 +652,12 @@
             "name": "New Sprite"
         },
         {
-            "owner": 15952441,
-            "id": 2090356,
-            "name": "New Sprite"
-        },
-        {
             "id": 4391680,
             "name": "New GameObject"
         },
         {
             "owner": 15952441,
-            "id": 11270209,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 3982145,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 1886613,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
             "id": 8726969,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 9251534,
-            "name": "New Sprite"
-        },
-        {
-            "owner": 15952441,
-            "id": 15950564,
             "name": "New Sprite"
         },
         {
@@ -1100,12 +667,12 @@
         },
         {
             "owner": 4391680,
-            "id": 13704469,
+            "id": 9601743,
             "name": "New Sprite"
         },
         {
             "owner": 4391680,
-            "id": 9601743,
+            "id": 13704469,
             "name": "New Sprite"
         },
         {
@@ -1116,6 +683,18 @@
         {
             "id": 4310020,
             "name": "Background"
+        },
+        {
+            "id": 12288402,
+            "name": "New Sprite"
+        },
+        {
+            "id": 8965825,
+            "name": "New Sprite"
+        },
+        {
+            "id": 14195375,
+            "name": "New Sprite"
         }
     ]
 }
