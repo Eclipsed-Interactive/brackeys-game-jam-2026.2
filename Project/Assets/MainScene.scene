@@ -810,18 +810,12 @@
             "HalfExtents": "AAAAPwAAAD8="
         },
         {
-<<<<<<< HEAD
             "owner": 6441861,
             "id": 3117936945,
-=======
-            "owner": 15386791,
-            "id": 3990032972,
->>>>>>> 49b729aa3c98a7f44a4d2bd4eb9b1f9b5ec780ab
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
             "HalfExtents": "AAAAPwAAAD8="
-<<<<<<< HEAD
         },
         {
             "owner": 9601743,
@@ -854,17 +848,6 @@
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
             "HalfExtents": "AAAAPwAAAD8="
-=======
-        }
-    ],
-    "SquishAnimator": [
-        {
-            "owner": 15386791,
-            "id": 3260257992,
-            "IsReplicated": false,
-            "SquishTime": "AACgQA==",
-            "SquishAmount": "AACAPw=="
->>>>>>> 49b729aa3c98a7f44a4d2bd4eb9b1f9b5ec780ab
         }
     ],
     "GameObjects": [
@@ -873,16 +856,8 @@
             "name": "Player"
         },
         {
-<<<<<<< HEAD
             "owner": 15952441,
             "id": 9492384,
-=======
-            "id": 7638342,
-            "name": "Camera"
-        },
-        {
-            "id": 5885770,
->>>>>>> 49b729aa3c98a7f44a4d2bd4eb9b1f9b5ec780ab
             "name": "New Sprite"
         },
         {
