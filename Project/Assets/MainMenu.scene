@@ -8,6 +8,13 @@
             "SmoothDistance": "j8L1PQ=="
         }
     ],
+    "AudioListener": [
+        {
+            "owner": 15326724,
+            "id": 3719459357,
+            "IsReplicated": false
+        }
+    ],
     "Transform2D": [
         {
             "owner": 15326724,
@@ -16,14 +23,6 @@
             "position": "2rwGQPp/nT4=",
             "rotation": "AAAAAA==",
             "scale": "nOgdQdmFkEE="
-        },
-        {
-            "owner": 11780219,
-            "id": 906786799,
-            "IsReplicated": false,
-            "position": "hetRwAAAAAA=",
-            "rotation": "AAAAAA==",
-            "scale": "AAALRAAAoEE="
         },
         {
             "owner": 15992977,
@@ -42,12 +41,12 @@
             "scale": "ZmZuQgAAkEE="
         },
         {
-            "owner": 3533722,
-            "id": 903223852,
+            "owner": 11780219,
+            "id": 906786799,
             "IsReplicated": false,
-            "position": "8XfGv8/nfz8=",
-            "rotation": "AAC0Qg==",
-            "scale": "AABsQwAAoEE="
+            "position": "hetRwAAAAAA=",
+            "rotation": "AAAAAA==",
+            "scale": "AAALRAAAoEE="
         },
         {
             "owner": 5578166,
@@ -56,6 +55,14 @@
             "position": "LDIKQFmv5r4=",
             "rotation": "AAC0wg==",
             "scale": "zczdQgAAoEE="
+        },
+        {
+            "owner": 3533722,
+            "id": 903223852,
+            "IsReplicated": false,
+            "position": "8XfGv8/nfz8=",
+            "rotation": "AAC0Qg==",
+            "scale": "AABsQwAAoEE="
         },
         {
             "owner": 8653226,
@@ -106,12 +113,12 @@
             "scale": "MzPMQgAAoEE="
         },
         {
-            "owner": 4154211,
-            "id": 706958598,
+            "owner": 1869975,
+            "id": 738088228,
             "IsReplicated": false,
-            "position": "tg0av07Bmb4=",
+            "position": "dN/eQBTMSL0=",
             "rotation": "AAAAAA==",
-            "scale": "AACgQTMzh0I="
+            "scale": "zcy7QwAAoEE="
         },
         {
             "owner": 15601315,
@@ -122,12 +129,12 @@
             "scale": "AADYQQAAoEE="
         },
         {
-            "owner": 1869975,
-            "id": 738088228,
+            "owner": 4154211,
+            "id": 706958598,
             "IsReplicated": false,
-            "position": "dN/eQBTMSL0=",
+            "position": "tg0av07Bmb4=",
             "rotation": "AAAAAA==",
-            "scale": "zcy7QwAAoEE="
+            "scale": "AACgQTMzh0I="
         },
         {
             "owner": 13718716,
@@ -146,20 +153,20 @@
             "scale": "AACgQTMzh0I="
         },
         {
-            "owner": 349027,
-            "id": 2342313638,
-            "IsReplicated": false,
-            "position": "Sm+8vn9qHL8=",
-            "rotation": "AAAAAA==",
-            "scale": "AACGQgAAoEE="
-        },
-        {
             "owner": 14960339,
             "id": 2004881807,
             "IsReplicated": false,
             "position": "SGmTvrcXDb8=",
             "rotation": "LTIjQg==",
             "scale": "AADYQQAAoEE="
+        },
+        {
+            "owner": 349027,
+            "id": 2342313638,
+            "IsReplicated": false,
+            "position": "Sm+8vn9qHL8=",
+            "rotation": "AAAAAA==",
+            "scale": "AACGQgAAoEE="
         },
         {
             "owner": 6361615,
@@ -196,14 +203,6 @@
             "Albedo": "AACAPwAAgD8AAIA/AACAPw=="
         },
         {
-            "owner": 5578166,
-            "id": 1148195383,
-            "IsReplicated": false,
-            "ZIndex": "AAAAAA==",
-            "material": "304024b18cd756152dee092f1a43738d",
-            "Albedo": "AACAPwAAgD8AAIA/AACAPw=="
-        },
-        {
             "owner": 6080603,
             "id": 2920102002,
             "IsReplicated": false,
@@ -212,8 +211,8 @@
             "Albedo": "AACAPwAAgD8AAIA/AACAPw=="
         },
         {
-            "owner": 12533804,
-            "id": 215757057,
+            "owner": 5578166,
+            "id": 1148195383,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
             "material": "304024b18cd756152dee092f1a43738d",
@@ -244,6 +243,14 @@
             "Albedo": "AACAPwAAgD8AAIA/AACAPw=="
         },
         {
+            "owner": 12533804,
+            "id": 215757057,
+            "IsReplicated": false,
+            "ZIndex": "AAAAAA==",
+            "material": "304024b18cd756152dee092f1a43738d",
+            "Albedo": "AACAPwAAgD8AAIA/AACAPw=="
+        },
+        {
             "owner": 9527785,
             "id": 2162493115,
             "IsReplicated": false,
@@ -252,16 +259,16 @@
             "Albedo": "QaCCPljdMj/nE0s+AACAPw=="
         },
         {
-            "owner": 15986294,
-            "id": 2294182459,
+            "owner": 8334592,
+            "id": 2974500686,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
             "material": "304024b18cd756152dee092f1a43738d",
             "Albedo": "AACAPwAAgD8AAIA/AACAPw=="
         },
         {
-            "owner": 8334592,
-            "id": 2974500686,
+            "owner": 15986294,
+            "id": 2294182459,
             "IsReplicated": false,
             "ZIndex": "AAAAAA==",
             "material": "304024b18cd756152dee092f1a43738d",
@@ -365,7 +372,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 5578166,
@@ -373,7 +381,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 15326724,
@@ -381,31 +390,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
-        },
-        {
-            "owner": 3533722,
-            "id": 2078262729,
-            "IsReplicated": false,
-            "myLayer": "",
-            "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
-        },
-        {
-            "owner": 349027,
-            "id": 298421705,
-            "IsReplicated": false,
-            "myLayer": "",
-            "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
-        },
-        {
-            "owner": 1869975,
-            "id": 152273171,
-            "IsReplicated": false,
-            "myLayer": "",
-            "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 8653226,
@@ -413,7 +399,35 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
+        },
+        {
+            "owner": 349027,
+            "id": 298421705,
+            "IsReplicated": false,
+            "myLayer": "",
+            "ColliderPivot": "AAAAAAAAAAA=",
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
+        },
+        {
+            "owner": 1869975,
+            "id": 152273171,
+            "IsReplicated": false,
+            "myLayer": "",
+            "ColliderPivot": "AAAAAAAAAAA=",
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
+        },
+        {
+            "owner": 3533722,
+            "id": 2078262729,
+            "IsReplicated": false,
+            "myLayer": "",
+            "ColliderPivot": "AAAAAAAAAAA=",
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 11780219,
@@ -421,7 +435,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 6080603,
@@ -429,7 +444,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 12533804,
@@ -437,7 +453,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 8334592,
@@ -445,7 +462,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 2187595,
@@ -453,7 +471,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 4154211,
@@ -461,7 +480,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 13718716,
@@ -469,7 +489,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 15516698,
@@ -477,7 +498,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 15601315,
@@ -485,7 +507,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 14960339,
@@ -493,7 +516,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         },
         {
             "owner": 15986294,
@@ -501,7 +525,8 @@
             "IsReplicated": false,
             "myLayer": "",
             "ColliderPivot": "AAAAAAAAAAA=",
-            "HalfExtents": "AAAAPwAAAD8="
+            "HalfExtents": "AAAAPwAAAD8=",
+            "isTrigger": "AA=="
         }
     ],
     "SquishAnimator": [
@@ -509,8 +534,8 @@
             "owner": 15326724,
             "id": 969790373,
             "IsReplicated": false,
-            "SquishTime": "AAAwQQ==",
-            "SquishAmount": "AACAPw=="
+            "SquishTime": "AABwQQ==",
+            "SquishAmount": "MzOzPw=="
         }
     ],
     "PlayerMovement": [
@@ -522,6 +547,17 @@
             "Acceleration": "AAAAAA==",
             "JumpForce": "AAAAQA==",
             "GroundcheckOffset": "AAAAAOxRuD0="
+        }
+    ],
+    "AudioEmitter": [
+        {
+            "owner": 15326724,
+            "id": 1975200824,
+            "IsReplicated": false,
+            "audioClip": "964feadb0516f7d5e7f83799ebe20b79",
+            "EnableSpatial": "AA==",
+            "playOnAwake": "AA==",
+            "volume": "CtejPQ=="
         }
     ],
     "GameObjects": [
