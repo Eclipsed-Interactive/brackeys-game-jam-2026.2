@@ -1,0 +1,1 @@
+{"CopyType":1,"Gameobjects":[{"Name":"Fence Center","Components":[{"Transform2D":{"position":"AAAAAAAAAAA=","rotation":"AAAAAA==","scale":"AACgQQAAoEE="},"IsReplicated":false},{"SpriteRenderer2D":{"ZIndex":"AAAAAA==","sprite":"61a3867b82a7567a30f37a0df73c1dcc","material":"304024b18cd756152dee092f1a43738d","Albedo":"AACAPwAAgD8AAIA/AACAPw=="},"IsReplicated":false}]}]}

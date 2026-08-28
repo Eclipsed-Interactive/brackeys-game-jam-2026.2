@@ -1,0 +1,1 @@
+{"CopyType":1,"Gameobjects":[{"Name":"Fence Right","Components":[{"Transform2D":{"position":"AAAAAAAAAAA=","rotation":"AAAAAA==","scale":"AACgQQAAoEE="},"IsReplicated":false},{"SpriteRenderer2D":{"ZIndex":"AAAAAA==","sprite":"27505637ad55927774cdb821d9d31d65","material":"304024b18cd756152dee092f1a43738d","Albedo":"AACAPwAAgD8AAIA/AACAPw=="},"IsReplicated":false}]}]}

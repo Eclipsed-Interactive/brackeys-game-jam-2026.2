@@ -1,0 +1,1 @@
+{"CopyType":1,"Gameobjects":[{"Name":"Floor Center","Components":[{"Transform2D":{"position":"AAAAAAAAAAA=","rotation":"AAAAAA==","scale":"AACgQQAAoEE="},"IsReplicated":false},{"SpriteRenderer2D":{"ZIndex":"AAAAAA==","sprite":"2099c857c0da8c1046af6ff1f4789a29","material":"304024b18cd756152dee092f1a43738d","Albedo":"AACAPwAAgD8AAIA/AACAPw=="},"IsReplicated":false}]}]}

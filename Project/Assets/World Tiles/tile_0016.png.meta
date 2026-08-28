@@ -1,0 +1,26 @@
+{
+    "value0": {
+        "cereal_class_version": 0,
+        "guidStr": "f29c893fb6c25b5c45febf4f6a5485a0",
+        "type": 1,
+        "metaComponents": [
+            {
+                "key": "struct Eclipse::Assets::TextureMeta",
+                "value": {
+                    "polymorphic_id": 2147483649,
+                    "polymorphic_name": "Eclipse::Assets::TextureMeta",
+                    "ptr_wrapper": {
+                        "valid": 1,
+                        "data": {
+                            "cereal_class_version": 2,
+                            "value0": {
+                                "cereal_class_version": 0
+                            },
+                            "spriteRects": []
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
