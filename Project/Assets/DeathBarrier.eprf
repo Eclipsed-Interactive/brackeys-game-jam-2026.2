@@ -1,0 +1,1 @@
+{"CopyType":1,"Gameobjects":[{"Name":"DeathBarrier","Components":[{"Transform2D":{"position":"XI/CvvYo3L4=","rotation":"AAAAAA==","scale":"zcw4QjMzq0E="},"IsReplicated":false},{"BoxCollider2D":{"myLayer":"","ColliderPivot":"AAAAAAAAAAA=","isTrigger":"AQ==","HalfExtents":"AAAAPwAAAD8="},"IsReplicated":false},{"DeathBarrier":{},"IsReplicated":false}]}]}
