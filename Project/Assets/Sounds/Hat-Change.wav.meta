@@ -3,23 +3,6 @@
         "cereal_class_version": 0,
         "guidStr": "bf3dea8095d19f34bdbb7308929477f5",
         "type": 5,
-        "metaComponents": [
-            {
-                "key": "struct Eclipse::Assets::AudioMeta",
-                "value": {
-                    "polymorphic_id": 2147483649,
-                    "polymorphic_name": "Eclipse::Assets::AudioMeta",
-                    "ptr_wrapper": {
-                        "valid": 1,
-                        "data": {
-                            "cereal_class_version": 1,
-                            "value0": {
-                                "cereal_class_version": 0
-                            }
-                        }
-                    }
-                }
-            }
-        ]
+        "metaComponents": []
     }
 }
